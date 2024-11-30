@@ -1,6 +1,6 @@
 # bloc_pattern
 
-A new Flutter project.
+Bloc Pattern for learn .
 
 ## Getting Started
 
