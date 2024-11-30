@@ -1,6 +1,6 @@
 # bloc_pattern
 
-Bloc Pattern for learn .
+Flutter Bloc Pattern for learn .
 
 ## Getting Started
 
